@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://zhaoguangyuan.github.io/"/>
   <updated>2019-04-29T09:45:28.254Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://zhaoguangyuan.github.io/</id>
   
   <author>
     <name>Mr Zhao</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hexo免费搭建一个属于自己的博客</title>
-    <link href="http://yoursite.com/2019/04/28/hexo/"/>
-    <id>http://yoursite.com/2019/04/28/hexo/</id>
+    <link href="https://zhaoguangyuan.github.io/2019/04/28/hexo/"/>
+    <id>https://zhaoguangyuan.github.io/2019/04/28/hexo/</id>
     <published>2019-04-28T10:00:40.000Z</published>
     <updated>2019-04-29T09:45:28.254Z</updated>
     
@@ -29,10 +29,10 @@
     
     </summary>
     
-      <category term="其它" scheme="http://yoursite.com/categories/%E5%85%B6%E5%AE%83/"/>
+      <category term="其它" scheme="https://zhaoguangyuan.github.io/categories/%E5%85%B6%E5%AE%83/"/>
     
     
-      <category term="Hexo(Hello World)" scheme="http://yoursite.com/tags/Hexo-Hello-World/"/>
+      <category term="Hexo(Hello World)" scheme="https://zhaoguangyuan.github.io/tags/Hexo-Hello-World/"/>
     
   </entry>
   
